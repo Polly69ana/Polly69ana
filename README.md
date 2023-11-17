@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I am Pollyana! <img src="https://github.com/luddias/readmefiles/blob/36a754db25c3821e25b8e200c7b1f72c3727d9fa/original.gif" width="70"> </h1>
 
 - 👨🏽‍💻  Em transição de carreira para a área de desenvolvimento de software, estou empenhada buscando crescer e aprender a cada dia.
-- 🎓  Sou estudante de Ciência Da Computação no Cruzeiro do Sul Virtual.
+- 🎓  Sou estudante de Ciência Da Computação na Cruzeiro do Sul Virtual.
 
 
 
