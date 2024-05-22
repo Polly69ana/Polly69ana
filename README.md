@@ -17,7 +17,8 @@
 ## 🌱 Estou atualmente estudando 
 
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
           
          
 ## 📫 Você pode falar comigo pelo: (eu demoro a responder as vezes mas sou legal, juro 🙃)
@@ -31,18 +32,8 @@
 <br/>
 
 <div align="center">
-  <h2>🐍 Minhas Contribuições 🐍</h2>
-  <br>
 
- 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueLopes42/HenriqueLopes42/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueLopes42/HenriqueLopes42/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HenriqueLopes42/HenriqueLopes42/output/github-contribution-grid-snake-dark.svg">
-  
-</picture>
-  
-  <br/><br/><br/>
+
 </div>
 
 <hr/>
@@ -50,10 +41,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Polly69ana&theme=darcula&hide_border=falso&locale=pt_BR" alt="GitHub Streak" /></a>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=Polly69ana&amp;show_icons=true&amp;theme=dracula" alt="Anurag&#39;s GitHub stats"></p>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Polly69ana&theme=dracula&hide_border=falso&locale=pt_BR" alt="GitHub Streak" /></a>
+     <div>
+<a href="https://github.com/Polly69ana">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly69ana&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Polly69ana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
   <br/>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly69ana&amp;layout=compact" alt="Top Langs"></p>
 
 </div>
 
