@@ -1,11 +1,11 @@
 <h1 align="center">
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&height=70&lines=Ol%C3%A1%F0%9F%91%8B;Eu+sou+Pollyana+Rodrigues!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&height=70&lines=Ol%C3%A1!%F0%9F%91%8B;Eu+sou+Pollyana+Rodrigues!" alt="Typing SVG" /></a>
 </h1>
 
 
              
 <p> 👩🏻‍🦱 Tenho 28 anos. </p>         
-<p> 👨🏽‍💻 Estou em transição de carreira para a área de desenvolvimento de software, empenhada em crescer e aprender a cada dia. </p>
+<p> 👩🏻‍💻 Estou em transição de carreira para a área de desenvolvimento de software, empenhada em crescer e aprender a cada dia. </p>
 <p> 📚 Estou estudando Javascript, Node, React e PostgreSQL. </p>
 <p> 🎓 Sou estudante de Ciência Da Computação na Cruzeiro do Sul Virtual. </p>
 
