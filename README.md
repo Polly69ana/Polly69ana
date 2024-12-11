@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<hr>
+<hr />
 <h2> ⚒️ Linguagens - Frameworks - Ferramentas ⚒️ </h2>
 
 
@@ -28,7 +28,7 @@
           
 </div>
           
-<hr/>   
+<hr />   
 
 <div align="center">
 <h2> 📫 Você pode falar comigo pelo: 📫 </h2>
@@ -40,16 +40,16 @@
 <p> Eu demoro a responder às vezes, mas sou legal, juro 🙃 </p>
 </div>            
           
-<br/>
+<br />
 
 <div align="center">
 
 </div>
 
-<hr/>
+<hr />
 
 <h2 align="center">⚡ Estatísticas⚡</h2>
-<br>
+<br />
 
 ![Pollyana Streak](https://github-readme-streak-stats.herokuapp.com/?user=Polly69ana&theme=dracula&hide_border=true)
 
@@ -59,7 +59,5 @@
 
 
 </div>
-<br/>
-<hr/>
-
-<br/>
+<br />
+<hr />
