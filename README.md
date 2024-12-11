@@ -1,5 +1,6 @@
+<hr />
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&height=70&lines=Ol%C3%A1!%F0%9F%91%8B;Eu+sou+Pollyana+Rodrigues!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=E44160&center=true&vCenter=true&width=500&height=70&lines=Ol%C3%A1!%F0%9F%91%8B;Eu+sou+Pollyana+Rodrigues!" alt="Typing SVG" /></a>
 </h1>
 
 
@@ -51,7 +52,7 @@
 <h2 align="center">⚡ Estatísticas⚡</h2>
 <br />
 
-![Pollyana Streak](https://github-readme-streak-stats.herokuapp.com/?user=Polly69ana&theme=dracula&hide_border=true)
+![Pollyana Streak](https://github-readme-streak-stats.herokuapp.com?user=Polly69ana&theme=dracula&hide_border=true&locale=pt_BR)
 
 ![Pollyana Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Polly69ana&theme=dracula&show_icons=true&hide_border=true&layout=compact)
      
