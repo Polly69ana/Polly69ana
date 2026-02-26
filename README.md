@@ -8,7 +8,7 @@
 <p> 👩🏻‍🦱 Tenho 30 anos. </p>         
 <p> 👩🏻‍💻 Estou em transição de carreira para a área de desenvolvimento de software, empenhada em crescer e aprender a cada dia. </p>
 <p> 📚 Estou estudando Python, Java e PostgreSQL. </p>
-<p> 🎓 Sou estudante de Ciência Da Computação na Cruzeiro do Sul Virtual. </p>
+<p> 🎓 Graduanda de Ciência da Computação na Cruzeiro do Sul Virtual. </p>
 
 
 <div align="center">
