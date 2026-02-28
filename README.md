@@ -10,23 +10,6 @@
 <p> 📚 Estou estudando Python, Java e PostgreSQL. </p>
 <p> 🎓 Graduanda de Ciência da Computação na Cruzeiro do Sul Virtual. </p>
 
-
-<div align="center">
-<hr />
-<h2> ⚒️ Linguagens - Frameworks - Ferramentas ⚒️ </h2>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-          
 </div>
           
 <hr />   
@@ -39,7 +22,30 @@
 <a href="https://www.linkedin.com/in/pollyana-rodrigues-52347994/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <p> Eu demoro a responder às vezes, mas sou legal, juro 🙃 </p>
-</div>            
+</div>    
+
+
+<div align="center">
+<hr />
+<h2> ⚒️  Habilidades Técnicas ⚒️ </h2>
+  
+- Linguagens de Programação: 
+
+    [![My Skills](https://skillicons.dev/icons?i=python,java,javascript)](https://skillicons.dev)
+    
+- Dados: 
+
+    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+  
+- Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+  
+- Desenvolvimento Web:
+
+    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+               
           
 <br />
 
