@@ -4,11 +4,12 @@
 </h1>
 
 
-             
-<p> 👩🏻‍🦱 Tenho 30 anos. </p>         
-<p> 👩🏻‍💻 Estou em transição de carreira para a área de desenvolvimento de software, empenhada em crescer e aprender a cada dia. </p>
-<p> 📚 Estou estudando Python, Java e PostgreSQL. </p>
-<p> 🎓 Graduanda de Ciência da Computação na Cruzeiro do Sul Virtual. </p>
+
+<p> 🎓 Formada em Ciência da Computação. </p>       
+<p> 👩🏻‍💻 Desenvolvedora com foco em soluções Web (Full-Stack), Mobile e Desktop, em transição para atuar 100% na área tech. </p>
+<p> 💻 Tecnologias do meu dia a dia: JavaScript, TypeScript, Python, React, HTML, CSS e AWS. </p>
+<p> 🌱 Sempre empenhada em crescer e aprender novas ferramentas. </p>
+
 
 </div>
           
@@ -19,7 +20,7 @@
 
 <a href="https://www.instagram.com/pollyf_rodrigues/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:pollyfernanda206@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pollyana-rodrigues-52347994/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pollyrodrigues" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <p> Eu demoro a responder às vezes, mas sou legal, juro 🙃 </p>
 </div>    
@@ -31,19 +32,19 @@
   
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=python,java,javascript)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python)](https://skillicons.dev)
     
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
   
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
   
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
 
                
           
