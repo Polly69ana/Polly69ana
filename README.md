@@ -56,13 +56,10 @@
 
 <br>
 
-<div align="left">
-  <h3 style="color: #C084FC;">🌱 What I'm currently building:</h3>
-  <p>
-    🤖 <b>Daxion:</b> Automated tax processing system using <i>Python, FastAPI, and Playwright</i>.<br>
-    📚 <b>Library Manager:</b> AI-powered eBook cataloging tool integrated with the <i>Gemini API</i>.
-  </p>
-</div>
+<h3 style="color: #C084FC;">🌱 What I'm currently building:</h3>
+
+- 🤖 **Daxion:** Automated tax processing system using *Python*, *FastAPI*, and *Playwright*.
+- 📚 **Library Manager:** AI-powered eBook cataloging tool integrated with the *Gemini API*.
 
 <br>
 
